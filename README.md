@@ -1,2 +1,5 @@
 # flipkart
-This Project is crea`ted by using HTML,CSS and JavaScript.here i have developed some pages ,aims to enhance the UserInterface and experience
+This project is created using HTML, CSS, and JavaScript. I have developed several pages with the aim of enhancing the user interface and experience.
+
+
+
